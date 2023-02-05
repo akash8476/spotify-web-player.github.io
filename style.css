@@ -70,8 +70,8 @@ nav img{
 }
 .songItem img{
     width: 50px;
-    margin: 0 23px;
-    border-radius: 34px;
+    margin: 0 5px;
+    border-radius: 50%;
 }
 .songlistplay{
     margin-left: 150px;
