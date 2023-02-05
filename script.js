@@ -12,7 +12,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName: "Kesariya Tera (Brahmastra)  ", filePath: "1s.mp3", coverPath: "1.jpg"},
     {songName: "Tera Naam Dhokha Rakh Du       ", filePath: "2s.mp3", coverPath: "2.jpg"},
-    {songName: "Har Har Shambhu(Mahadeva)", filePath: "3s.mp3", coverPath: "3.jpg"},
+    {songName: "Har Har Shambhu", filePath: "3s.mp3", coverPath: "3.jpg"},
     {songName: "Raataan Lambiyan (Shershaah)   ", filePath: "4s.mp3", coverPath: "4.jpg"},
     {songName: "Deva Deva (Brahmastra) ", filePath: "5s.mp3", coverPath: "5.jpg"}, 
 ]
